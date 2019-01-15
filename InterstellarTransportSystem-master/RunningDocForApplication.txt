@@ -1,0 +1,17 @@
+## Installation
+This project requires JDK 8. Install on linux using this command:
+
+    sudo apt-get install openjdk-8-jdk
+
+    install maven
+    set classpath
+
+    In intellij or eclipse export as maven project
+      or sts-3.9.7.RELEASE
+    run maven clean install
+    mvn spring-boot:run
+
+    http://localhost:8080 on the browser
+    http://localhot:8080/vertices for editing the vertex
+    http://localhot:8080/edges for distance between vertex
+    http://localhot:8080/traffics for seeing the traffic

@@ -1,0 +1,13 @@
+in\co\galaxy\assignment\dao\VertexDaoTest.class
+in\co\galaxy\assignment\service\XLSXHandlerTest.class
+in\co\galaxy\assignment\controller\IndexControllerTest.class
+in\co\galaxy\assignment\service\EntityManagerServiceTest.class
+in\co\galaxy\assignment\dao\TrafficDaoTest.class
+in\co\galaxy\assignment\dao\EdgeDaoTest.class
+in\co\galaxy\assignment\helper\ValidationCodesTest.class
+in\co\galaxy\assignment\InterstellarTransportSystemApplicationTests.class
+in\co\galaxy\assignment\helper\GraphTest.class
+in\co\galaxy\assignment\ShortestPathRepositoryTest.class
+in\co\galaxy\assignment\ShortestPathEndpointTest.class
+in\co\galaxy\assignment\service\ShortestPathServiceTest.class
+in\co\galaxy\assignment\controller\RootControllerTest.class
